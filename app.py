@@ -166,7 +166,7 @@ WIDGET_JS = """
       display: flex; align-items: center; justify-content: center; cursor: pointer;
       z-index: 2147483000; font-size: 26px; border: none; transition: transform .15s ease; }
     .ob-btn:hover { transform: scale(1.06); }
-    .ob-window { position: fixed; bottom: 218px; right: 24px; width: 340px; max-width: 90vw;
+    .ob-window { position: fixed; bottom: 30px; right: 24px; width: 340px; max-width: 90vw;
       height: 480px; max-height: 70vh; background: #fff; border-radius: 16px;
       box-shadow: 0 8px 32px rgba(74,59,104,0.25); display: none; flex-direction: column;
       overflow: hidden; z-index: 2147483000; font-family: 'Inter', system-ui, sans-serif; }
